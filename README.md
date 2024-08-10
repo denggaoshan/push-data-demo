@@ -1,6 +1,11 @@
 # push-data-demo
+
+## Introduction
+
 Jenkins -> push data to Pushgateway
+
 Prometheus -> Collect Data
+
 Grafana -> visualize Data
 
 # How to run
@@ -8,11 +13,10 @@ Grafana -> visualize Data
 ## Requirements
 
 docker
-docker-compose
 
 ## Clone Source Code 
 
-Get 'docker-compose.yml' and 'prometheus.yml' in the same directory
+Gets 'docker-compose.yml' and 'prometheus.yml' in the same directory
 
 ## Launch 
 
