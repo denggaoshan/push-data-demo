@@ -2,11 +2,11 @@
 
 ## Introduction
 
-Jenkins -> push data to Pushgateway
+Jenkins -> Push data
 
 Prometheus -> Collect Data
 
-Grafana -> visualize Data
+Grafana -> Visualize Data
 
 # How to run
 
